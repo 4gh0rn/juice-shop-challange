@@ -38,15 +38,15 @@ This repository includes:
 
 | # | Challenge Name | Category | Difficulty | Video | Status |
 |---|----------------|----------|------------|-------|--------|
-| 1 | [Login as Jim] | Injection | ⭐⭐⭐ | [🎥 Watch](https://www.loom.com/share/94b1cb88cb4641c38633bd457486a31b) | ✅ Completed |
-| 2 | [Route Hunter - SPA Route Discovery] | Reconnaissance / Route Enumeration / SPA Testing | ⭐⭐⭐⭐ | [🎥 Watch](https://www.loom.com/share/d6ce01e04ee44f248b0cfc3df5909540) | ✅ Completed |
-| 3 | [Restore Progress - Backup Challenge] | API Manipulation / IDOR | ⭐⭐⭐ | [🎥 Watch](link) | ✅ Completed |
-| 4 | [Empty User Registration] | Input Validation / Broken Authentication | ⭐⭐ | [🎥 Watch](https://www.loom.com/share/8f4b7728e4ad4a039ef589dc9c5521a1) | ✅ Completed |
-| 5 | [Password Strength] | Broken Authentication / Brute Force | ⭐⭐ | [🎥 Watch](https://www.loom.com/share/ef76e0596fdf4bb4b9a08e5406bccc63) | ✅ Completed |
-| 6 | [Deprecated Interface] | Insecure File Upload / Client-Side Validation Bypass | ⭐⭐ | [🎥 Watch](https://www.loom.com/share/22e248028a6c424a977ded94f15a6b14) | ✅ Completed |
-| 7 | [Meta Geo Stalking] | Information Disclosure / Metadata Exposure | ⭐⭐⭐ | [🎥 Watch](https://www.loom.com/share/b915558227f54eba8819e6928da5583d) | ✅ Completed |
-| 8 | [API-only XSS] | Cross-Site Scripting (XSS) / Persistent XSS | ⭐⭐⭐ | [🎥 Watch](https://www.loom.com/share/5ba996113df349d68403768994bcc221) | ✅ Completed |
-| 9 | [Admin Registration] | Privilege Escalation / Broken Access Control | ⭐⭐⭐ | [🎥 Watch](https://www.loom.com/share/8ff082c6c0294bf596a040a2671c4c84) | ✅ Completed |
+| 1 | [Login as Jim](challenges/login_as_jim.md) | Injection | ⭐⭐⭐ | [🎥 Watch](https://www.loom.com/share/94b1cb88cb4641c38633bd457486a31b) | ✅ Completed |
+| 2 | [Route Hunter - SPA Route Discovery](challenges/route_hunter_headless_gobuster.md) | Reconnaissance / Route Enumeration / SPA Testing | ⭐⭐⭐⭐ | [🎥 Watch](https://www.loom.com/share/d6ce01e04ee44f248b0cfc3df5909540) | ✅ Completed |
+| 3 | [Restore Progress - Backup Challenge](challenges/restore_progress_backup.md) | API Manipulation / IDOR | ⭐⭐⭐ | [🎥 Watch](link) | ✅ Completed |
+| 4 | [Empty User Registration](challenges/empty_user_registration.md) | Input Validation / Broken Authentication | ⭐⭐ | [🎥 Watch](https://www.loom.com/share/8f4b7728e4ad4a039ef589dc9c5521a1) | ✅ Completed |
+| 5 | [Password Strength](challenges/password_strength_brute_force.md) | Broken Authentication / Brute Force | ⭐⭐ | [🎥 Watch](https://www.loom.com/share/ef76e0596fdf4bb4b9a08e5406bccc63) | ✅ Completed |
+| 6 | [Deprecated Interface](challenges/deprecated_interface.md) | Insecure File Upload / Client-Side Validation Bypass | ⭐⭐ | [🎥 Watch](https://www.loom.com/share/22e248028a6c424a977ded94f15a6b14) | ✅ Completed |
+| 7 | [Meta Geo Stalking](challenges/meta_geo_stalking.md) | Information Disclosure / Metadata Exposure | ⭐⭐⭐ | [🎥 Watch](https://www.loom.com/share/b915558227f54eba8819e6928da5583d) | ✅ Completed |
+| 8 | [API-only XSS](challenges/api_only_xss.md) | Cross-Site Scripting (XSS) / Persistent XSS | ⭐⭐⭐ | [🎥 Watch](https://www.loom.com/share/5ba996113df349d68403768994bcc221) | ✅ Completed |
+| 9 | [Admin Registration](challenges/admin_registration.md) | Privilege Escalation / Broken Access Control | ⭐⭐⭐ | [🎥 Watch](https://www.loom.com/share/8ff082c6c0294bf596a040a2671c4c84) | ✅ Completed |
 
 ### Category Distribution
 - **[Injection]:** 1 challenge(s)
