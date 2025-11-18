@@ -1,4 +1,4 @@
-# [Empty User Registration] - [Difficulty Level ⭐⭐]
+# Empty User Registration - ⭐⭐
 
 ## Overview
 

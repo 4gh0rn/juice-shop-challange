@@ -1,4 +1,4 @@
-# [Route Hunter - SPA Route Discovery] - [Difficulty Level ⭐⭐⭐⭐]
+# Route Hunter - SPA Route Discovery - ⭐⭐⭐⭐
 
 ## Overview
 

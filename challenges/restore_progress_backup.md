@@ -1,4 +1,4 @@
-# [Restore Progress - Backup Challenge] - [Difficulty Level ⭐⭐⭐]
+# Restore Progress - Backup Challenge - ⭐⭐⭐
 
 ## Overview
 
