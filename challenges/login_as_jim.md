@@ -1,4 +1,4 @@
-# [Login as Jim] - [Difficulty Level ⭐⭐⭐]
+# Login as Jim - ⭐⭐⭐
 
 ## Overview
 
